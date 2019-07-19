@@ -1,6 +1,6 @@
 # Geektrust Problem : FindingFalcone
 
-##King Shan has received intelligence that Al Falcone is in hiding in one of these 6 planets - DonLon, Enchai, Jebing, Sapir, Lerbin & Pingasor. However he has limited resources at his disposal & can send his army to only 4 of these planets. 
+## King Shan has received intelligence that Al Falcone is in hiding in one of these 6 planets - DonLon, Enchai, Jebing, Sapir, Lerbin & Pingasor. However he has limited resources at his disposal & can send his army to only 4 of these planets. 
 -----------------------------------------------------------------
 ### Our Task
 #### Need to build a UI through which King Shan can :-  
